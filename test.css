@@ -1,7 +1,0 @@
-
-    :host >>> .ng-sidebar {
-      position: absolute;
-    }
-    :host >>> .ng-sidebar--opened {
-      position: relative;
-    }
